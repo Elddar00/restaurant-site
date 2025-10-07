@@ -80,7 +80,7 @@
 
   font-weight: 500;
   font-size: 18px;
-  line-height: 32px;
+  line-height: 23px;
   font-family: var(--plus-jakarta-sans);
   color: #fff;
 
@@ -101,7 +101,7 @@
 
 .popular-foods__card {
   padding: 38px;
-  min-height: 260px;
+  min-width: 260px;
   height: fit-content;
 
   display: flex;
